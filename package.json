@@ -1,0 +1,38 @@
+{
+  "name": "clir_theme",
+  "version": "1.0.0",
+  "description": "Alchem customizations",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clirdlf/clir_theme.git"
+  },
+  "author": "Wayne Graham",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/clirdlf/clir_theme/issues"
+  },
+  "homepage": "https://github.com/clirdlf/clir_theme#readme",
+  "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "dotenv": "^4.0.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-imagemin": "^4.0.0",
+    "gulp-include": "^2.3.1",
+    "gulp-sass": "^2.3.2",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-uglify": "^2.0.0",
+    "imagemin-giflossy": "^5.1.10",
+    "imagemin-mozjpeg": "^6.0.0",
+    "imagemin-pngquant": "^5.0.1",
+    "imagemin-zopfli": "^5.1.0",
+    "node-sass": "^3.10.1",
+    "pump": "^1.0.3"
+  },
+  "dependencies": {
+    "jquery-smooth-scroll": "^2.2.0"
+  }
+}

@@ -1,0 +1,19 @@
+/*
+ * Theme Name: DLME Child Theme
+ * Theme URI: https://github.com/clirdlf/dlme_child
+ * Description: Child of Illdy theme with DLME customizations
+ * Author: Wayne Graham
+ * Author URI: https://www.clir.org
+ * Template: illdy
+ * Version: 0.0.1
+ * License: GNU General Public License v2 or later
+ * License URI: http://www.gnu.org/licenses/gpl-2.0.html
+ * Text Domain: clir
+ * Github Theme URI: https://github.com/clirdlf/dlme_child
+ * Github Branch: master
+ *
+ * This theme, like WordPress, is licensed under the GPL.
+ * Use it to make something cool, have fun, and share what you've learned with others.
+ */
+
+@import url('stylesheets/main.css');
